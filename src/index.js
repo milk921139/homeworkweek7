@@ -221,6 +221,6 @@
     celsiusLink.addEventListener("click", showCelsiusTemp);
     form.addEventListener("submit", handleSubmit);
     currentLocationIcon.addEventListener("click", setTempToCurrentLocation);
-    search("London");
+    search("Los Angeles");
 
 })();
